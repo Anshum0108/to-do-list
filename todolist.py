@@ -55,7 +55,7 @@ def retrieve_database():
    
 if __name__ == "__main__":   
     guiWindow = Tk()   
-    guiWindow.title("To-Do List (CODSOFT) by Subham Kumar")  
+    guiWindow.title("To-Do List (CODSOFT) by Anshum")  
     guiWindow.geometry("665x400+550+250")   
     guiWindow.resizable(0, 0)  
     guiWindow.configure(bg="skyblue")  # Sky blue background
